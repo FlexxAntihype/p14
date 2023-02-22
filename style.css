@@ -1,0 +1,334 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('fon.png');
+    background-repeat: no-repeat;
+    width: 600px;
+}
+header{
+    width: 600px;
+}
+.img1{
+    margin: 30px 0px 0px 176px;
+    z-index: 2;
+    position: relative;
+}
+.img2{
+    margin: 27px 0px 0px 40px;
+    z-index: 2;
+    position: relative;
+}
+.img3{
+    margin: 6px 0px 0px 100px;
+    z-index: 2;
+    position: relative;
+}
+.img4{
+    margin: 57px 0px 0px -387px;
+    position: absolute;
+}
+.b1{
+    margin: 0px 0px 0px 35px;
+}
+.b2{
+    margin: 0px 0px 0px -90px;
+    position: absolute;
+}
+.b3{
+    margin: -25px 0px 0px -17px;
+    position: absolute;
+}
+.b4{
+    margin: -66px 0px 0px -48px;
+    position: absolute;
+}
+.b5{
+    margin: -80px 0px 0px 438px;
+    position: absolute;
+    z-index: 999;
+}
+.b6{
+    margin: 0px 0px 0px -53px;
+    position: absolute;
+    z-index: 999;
+}
+.c1{
+    margin: 18px 0px 0px -67px;
+}
+.c2{
+    margin: 0px 0px 0px -182px;
+}
+.block{
+    margin: -6px 0px 0px 87px;
+}
+.h1-b{
+    margin: -170px 0px 0px -35px;
+    color:  #C4EE4A;
+    font-size: 120px;
+    font-family: 'Roboto', sans-serif;
+}
+.h2-b{
+    opacity: 0.5;
+    margin: -131px 0px 0px -26px;
+    color:  #C4EE4A;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+.block2{
+    margin: -30px 0px 0px 425px;
+    z-index: 999;
+    position: relative;
+}
+.free{
+    margin: -180px 0px 0px -56px;
+    position: absolute;
+    font-size: 40px;
+    opacity: 0.7;
+    font-family: 'Roboto', sans-serif;
+}
+.f2{
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+    z-index: 0;
+}
+.f3{
+    margin: -357px 0px 0px 0px;
+    position: relative;
+    z-index: 1;
+}
+.block3{
+    margin: -81px 0px 0px 139px;
+    z-index: 999;
+    position: relative;  
+}
+.dop{
+    margin: -146px 0px 0px -70px;
+}
+.fre{
+    margin: -178px 0px 0px -157px;
+    opacity: 0.8;
+    font-family: 'Roboto', sans-serif;
+}
+.s1{
+margin: -5px 0px 0px 0px;
+}
+.block-two{
+    width: 480px; 
+    height: 385px;
+    border-radius: 30px;
+    border: 3px solid #B0E31B;
+    background-color: rgba(58, 32, 80, 0.7);
+    position: relative;
+    z-index: 998;
+    margin: 0px 0px 0px 46px;
+}
+.h-b{
+    font-family: 'Roboto', sans-serif;
+font-weight: 700;
+font-size: 16px;
+line-height: 17.5px;
+text-align: center;
+color:#B0E31B;
+margin: 27px 0px 20px 0px;
+}
+.h-2-b{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.5px;
+    text-align: center;
+    color:#B0E31B;
+}
+h2 span{
+    color: white;
+}
+.w{
+    color: white;
+}
+.txt{
+    display: block;
+    margin: 0px 42px 0px 42px;
+}
+.butt{
+    width: 162px;
+    height: 31px;
+    border-radius: 20px;
+    background-color: #B0E31B;
+    color: black;
+    margin: 32px 0px 0px 111px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.s2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 48px 0px 0px 0px;
+}
+.one{
+    width: 228px;
+    height: 228px;
+    margin: 0px 0px 40px 18px;
+}
+.two{
+    width: 280px;
+    height: 500px;
+    background-color: #3D1F55;
+
+}
+.img5{
+    margin: 10px 0px 0px 35px;
+}
+.img6{
+    margin: 40px 0px 0px -188px;
+    position: absolute;
+}
+.h1-t{
+    margin: -100px 0px 0px 15px;
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    z-index: 999;
+}
+.butt-t{
+    width: 162px;
+    height: 31px;
+    border: 20px;
+    background-color: #B0E31B;
+    position: absolute;
+    margin: 175px 0px 0px -156px;
+    border-radius: 20px;
+    z-index: 999;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.img7{
+    margin: 0px 0px 0px 4px;
+    position: absolute;
+}
+.img8{
+    margin: 40px 0px 0px -1px;
+    position: absolute;
+}
+.h1-th{
+    margin: 140px 0px 0px 25px;
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    z-index: 999;
+    font-weight: 700;
+}
+button{
+    cursor: pointer;
+}
+.butt-th{
+    width: 162px;
+    height: 31px;
+    border: 20px;
+    background-color: #B0E31B;
+    position: absolute;
+    margin: 180px 0px 0px 30px;
+    border-radius: 20px;
+    z-index: 999;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.h1-thr{
+    margin: -23px 0px 0px 94px;
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    z-index: 999;
+    font-weight: 700;
+}
+.butt-thr{
+    width: 162px;
+    height: 31px;
+    border: 20px;
+    background-color: #B0E31B;
+    position: absolute;
+    margin: 422px 0px 0px -186px;
+    border-radius: 20px;
+    z-index: 999;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.img9{
+    margin: 34px 0px 0px 30px;
+}
+.a-1{
+    display: flex;
+}
+.three{
+    width: 228px;
+    height: 162px;
+    margin: 0px 46px 0px 21px;
+}
+.butt-f{
+    width: 162px;
+    height: 31px;
+    border: 20px;
+    background-color: #B0E31B;
+    position: absolute;
+    margin: 0px 0px 0px 34px;
+    border-radius: 20px;
+    z-index: 999;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.h1-f{
+    width: 210px;
+    height: 51px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    margin: 28px 0px 26px 10px;
+}
+.txt-foot{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 15.4px;
+    text-align: center;
+    width: 480px;
+    height: 210px;
+    margin: 0px 0px 0px 47px;
+    z-index: 999;
+    position: relative;
+}
+.a-foot{
+    font-weight: 700;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    height: 31px;
+    margin: 0px 8px 0px 6px;
+    position: relative;
+    z-index: 999;
+}
+.block-footer{
+    margin: 50px 0px 27px 114px;
+}
+.b9{
+    position: absolute;
+    margin: -70px 0px 0px 0px;
+    z-index: 999;
+}
+.b8{
+    position: absolute;
+    margin: 114px 0px 0px 493px;
+    z-index: 999;
+}
+.b7{
+    position: absolute;
+    margin: 236px 0px 0px 0px;
+    z-index: 999;
+}
